@@ -1,0 +1,3 @@
+﻿  view_test.cpp
+c:\users\fangm\desktop\view_test\view_test\view_test.cpp(145): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  view_test.vcxproj -> C:\Users\fangm\Desktop\view_test\Debug\view_test.exe
